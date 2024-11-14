@@ -2,3 +2,8 @@ body{
     background-color:black;
     color:white;
 }
+
+header {
+    border-bottom: solid 2px rgb(139, 204, 98);
+    padding: 20px;
+}
