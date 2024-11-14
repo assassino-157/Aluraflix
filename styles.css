@@ -12,6 +12,7 @@ header {
 
 section{
     display: flex;
+    background-color: green;
 }
 
 .chamada-texto{
